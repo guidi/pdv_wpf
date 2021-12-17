@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guidis.PDV.WPF", "Guidis.PDV.WPF\Guidis.PDV.WPF.csproj", "{8F3EBDEC-D193-4016-8F6A-6F1E6A61E442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F3EBDEC-D193-4016-8F6A-6F1E6A61E442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3EBDEC-D193-4016-8F6A-6F1E6A61E442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3EBDEC-D193-4016-8F6A-6F1E6A61E442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3EBDEC-D193-4016-8F6A-6F1E6A61E442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EB46D34-59B0-4C7A-ADD3-7263A937779E}
+	EndGlobalSection
+EndGlobal
